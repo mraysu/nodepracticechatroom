@@ -1,4 +1,4 @@
-# nodepracticechatroom
+# Basic Chatroom
 Simple chatroom project using node.js, express, and websocket
 
 Installation:
