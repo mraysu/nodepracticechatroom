@@ -1,5 +1,5 @@
 # Basic Chatroom
-Simple chatroom project using node.js, express, and websocket
+Simple local chatroom project using node.js, express, and websocket
 
 Installation:
 ```
